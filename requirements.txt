@@ -1,0 +1,9 @@
+python-3.5.2
+beautifulsoup4==4.5.1
+dj-database-url==0.4.2
+Django==1.11
+gunicorn==19.7.1
+nltk==3.2.1
+psycopg2==2.7.1
+pytz==2017.2
+whitenoise==3.3.0
