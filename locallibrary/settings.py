@@ -27,11 +27,10 @@ SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY', 'cg#p$g+j9tax!#a3cup@1$8obt2_+&
 #DEBUG = True
 DEBUG = bool( os.environ.get('DJANGO_DEBUG', True) )
 
-<<<<<<< HEAD
-ALLOWED_HOSTS = []
-=======
+
+
 ALLOWED_HOSTS =['fathomless-waters-51242.herokuapp.com', '127.0.0.1']
->>>>>>> 9f5ddb7425284a1c1efaaf216e5cd9494f46ddb8
+
 
 
 # Application definition
