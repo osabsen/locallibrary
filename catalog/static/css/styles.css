@@ -1,0 +1,15 @@
+.sidebar-nav {
+    margin-top: 20px;
+    padding: 0;
+    list-style: none;
+}
+
+
+.resizedTextbox {
+    width: 600px;
+    height: 300px;
+    
+    padding: 10px 0;
+    
+}
+
